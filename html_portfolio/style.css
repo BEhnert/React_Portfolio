@@ -1,0 +1,55 @@
+.gradient-bg, body {
+    background: rgb(32, 32, 212);
+    background-image: url("mountain.jpg");
+}
+
+h1 {
+  text-align: center;
+}
+
+iframe {
+  display: block;
+  margin:auto;
+}
+
+.jumbotron {
+    background: rgba(171, 196, 206, 0.85);
+    background: radial-gradient(circle, white);
+}
+
+.navbar {
+    text-align: center;
+    overflow: hidden;
+    position: fixed;
+    top: 0; 
+    width: 100%; 
+    display: inline-block;
+    float: none;
+    background: rgb(171, 196, 206);
+  }
+
+
+.no-border {
+    border: none;
+    margin:10px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: rgba(171, 196, 206, 0.85);
+  color:black
+}
+
+.page {
+  position: relative;
+  page-break-after: always;
+  width: 8.5in;
+  height: 11in;
+  overflow: hidden;
+}
+
+body {
+    margin-top: 50px;
+  }
