@@ -1,6 +1,6 @@
 import '../Views/style.css';
-import Footer from '../Views/footer';
-import NavBar from '../Views/navbar';
+import Footer from '../components/footer';
+import NavBar from '../components/navbar';
 
 function Projects() {
     return (
