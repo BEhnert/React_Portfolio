@@ -1,6 +1,6 @@
 import '../Views/style.css';
-import Footer from '../components/footer';
-import NavBar from '../components/navbar'
+import Footer from './footer';
+import NavBar from './navbar'
 
 function Resume() {
     return (
