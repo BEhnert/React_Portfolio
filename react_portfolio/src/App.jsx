@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import Home from "../src/Views/home";
-import Projects from "../src/Views/projects"
-import Resume from "../src/Views/resume"
+import Home from "../src/components/Views/home"
+import Projects from "../src/components/Views/projects"
+import Resume from "../src/components/Views/resume"
 
 function App() {
   return (
