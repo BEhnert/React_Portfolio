@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/20-React_Portfolio/static/css/main.7d33ac55.chunk.css",
+    "main.js": "/20-React_Portfolio/static/js/main.03a1715f.chunk.js",
+    "main.js.map": "/20-React_Portfolio/static/js/main.03a1715f.chunk.js.map",
+    "runtime-main.js": "/20-React_Portfolio/static/js/runtime-main.ba27aaf7.js",
+    "runtime-main.js.map": "/20-React_Portfolio/static/js/runtime-main.ba27aaf7.js.map",
+    "static/js/2.14512e0d.chunk.js": "/20-React_Portfolio/static/js/2.14512e0d.chunk.js",
+    "static/js/2.14512e0d.chunk.js.map": "/20-React_Portfolio/static/js/2.14512e0d.chunk.js.map",
+    "static/js/3.49d5db81.chunk.js": "/20-React_Portfolio/static/js/3.49d5db81.chunk.js",
+    "static/js/3.49d5db81.chunk.js.map": "/20-React_Portfolio/static/js/3.49d5db81.chunk.js.map",
+    "index.html": "/20-React_Portfolio/index.html",
+    "static/css/main.7d33ac55.chunk.css.map": "/20-React_Portfolio/static/css/main.7d33ac55.chunk.css.map",
+    "static/js/2.14512e0d.chunk.js.LICENSE.txt": "/20-React_Portfolio/static/js/2.14512e0d.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/20-React_Portfolio/static/media/mountain.bf33d688.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba27aaf7.js",
+    "static/js/2.14512e0d.chunk.js",
+    "static/css/main.7d33ac55.chunk.css",
+    "static/js/main.03a1715f.chunk.js"
+  ]
+}
