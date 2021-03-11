@@ -28,7 +28,7 @@ function Projects() {
                                 <p className="lead">
                                     <div className="container">
                                         <h2>FairWeather Adventures</h2>
-                                        <p style={{ fontSize: "20px", color: "black" }}>The Fairweather Adventures app solves the real world problem
+                                        <p style={{ fontSize: "20px", color: "black", fontWeight: "450" }}>The Fairweather Adventures app solves the real world problem
                                         for short notice travelers who are looking for National Park information and also want to know
                                         the current weather and 5-day forecast for their chosen park adventure. The app integrates data
                                         received from multiple server-side API requests (Open Weather Map API
@@ -51,7 +51,7 @@ function Projects() {
                                     </div>
                                     <div className="container">
                                         <h2>Household Optimizer</h2>
-                                        <p style={{ fontSize: "20px", color: "black" }}>Simple application that allows users keep track of essentials in their household. This app was made using NodeJS, Express, Handlebars, Sequelize ORM with MySQL Dialect, Passport package with Local Strategy, Jquery Ajax requests, Bootstrap CSS Library, and custom CSS stylings.</p>
+                                        <p style={{ fontSize: "20px", color: "black", fontWeight: "450" }}>Simple application that allows users keep track of essentials in their household. This app was made using NodeJS, Express, Handlebars, Sequelize ORM with MySQL Dialect, Passport package with Local Strategy, Jquery Ajax requests, Bootstrap CSS Library, and custom CSS stylings.</p>
                                         <form action="https://github.com/BEhnert/project-2" method="get" target="_blank"
                                             className="btn no-border">
                                             <button style={{ backgroundColor: "rgb(32, 32, 212)" }} type="submit"
@@ -66,7 +66,7 @@ function Projects() {
                                     </div>
                                     <div className="container">
                                         <h2>Twin Cities Food Share</h2>
-                                        <p style={{ fontSize: "20px", color: "black" }}>Application to allow easy sharing of food supplies in the Twin Cities<br></br>
+                                        <p style={{ fontSize: "20px", color: "black", fontWeight: "450" }}>Application to allow easy sharing of food supplies in the Twin Cities<br></br>
                                         As a user:
 I want to find free meals, produce, and groceries near me so that I can have access to food in the Twin Cities. I can search by areas locate the area by zooming on the map When I click on the pin on the map It shows me the description, date added, and the donor It gives me an option to get direction an option to share
 
@@ -78,7 +78,7 @@ I can drop a pin for the product's: Location Date Quantity I can delete the pin 
                                                 className="btn btn-dark  no-border rounded-pill">Github: Project 3 - Twin Cities Food Share
                         </button>
                                         </form>
-                                        <form action="" method="get"
+                                        <form action="https://tc-food-share.herokuapp.com/" method="get"
                                             target="_blank" className="btn no-border">
                                             <button style={{ backgroundColor: "rgb(32, 32, 212)" }} type="submit"
                                                 className="btn btn-dark  no-border rounded-pill">Twin Cities Food Share</button>
@@ -86,7 +86,7 @@ I can drop a pin for the product's: Location Date Quantity I can delete the pin 
                                     </div>
                                     <div className="container">
                                         <h2>Coding Quiz</h2>
-                                        <p style={{ fontSize: "20px", color: "black" }}>This app is designed to be a timed code quiz where user is able to select from multiple choice answers. After getting through the quiz, the user score will be displayed according to how many correct/incorrect answers they gave during the 60 second quiz. At that time, they can then enter initials and submit to store their score in the high scores.</p>
+                                        <p style={{ fontSize: "20px", color: "black", fontWeight: "450" }}>This app is designed to be a timed code quiz where user is able to select from multiple choice answers. After getting through the quiz, the user score will be displayed according to how many correct/incorrect answers they gave during the 60 second quiz. At that time, they can then enter initials and submit to store their score in the high scores.</p>
                                         <form action=" https://github.com/BEhnert/4-Coding_Quiz" method="get" target="_blank"
                                             className="btn no-border">
                                             <button style={{ backgroundColor: "rgb(32, 32, 212)" }} type="submit"
@@ -100,7 +100,7 @@ I can drop a pin for the product's: Location Date Quantity I can delete the pin 
                                     </div>
                                     <div className="container">
                                         <h2>Day Planner</h2>
-                                        <p style={{ fontSize: "20px", color: "black" }}>Web application for current day's activities during business hours of 9-5pm local time.  This DayPlanner will allow user to save any activities by the hour in daily routine.</p>
+                                        <p style={{ fontSize: "20px", color: "black", fontWeight: "450" }}>Web application for current day's activities during business hours of 9-5pm local time.  This DayPlanner will allow user to save any activities by the hour in daily routine.</p>
                                         <form action=" https://github.com/BEhnert/5-Day_Planner" method="get" target="_blank"
                                             className="btn no-border">
                                             <button style={{ backgroundColor: "rgb(32, 32, 212)" }} type="submit"
@@ -114,7 +114,7 @@ I can drop a pin for the product's: Location Date Quantity I can delete the pin 
                                     </div>
                                     <div className="container">
                                         <h2>Note Taker</h2>
-                                        <p style={{ fontSize: "20px", color: "black" }}>This application will allow users to create, view, and delete notes</p>
+                                        <p style={{ fontSize: "20px", color: "black", fontWeight: "450" }}>This application will allow users to create, view, and delete notes</p>
                                         <form action="https://github.com/BEhnert/11-Note_Taker" method="get" target="_blank"
                                             className="btn no-border">
                                             <button style={{ backgroundColor: "rgb(32, 32, 212)" }} type="submit"
@@ -128,7 +128,7 @@ I can drop a pin for the product's: Location Date Quantity I can delete the pin 
                                     </div>
                                     <div className="container">
                                         <h2>Fitness Tracker</h2>
-                                        <p style={{ fontSize: "20px", color: "black" }}> This application will allow users to view create and track daily workouts. They can also log multiple exercises in a workout on a given day. It allows user to track both resistance and cardio workouts. For resistance, the user can input name, type, weight, sets, reps, and duration of exercise. For cardio, user can track duration and distance traveled. The purpose of application is to help users reach their fitness goals more quickly by actively tracking their workout progress.
+                                        <p style={{ fontSize: "20px", color: "black", fontWeight: "450" }}> This application will allow users to view create and track daily workouts. They can also log multiple exercises in a workout on a given day. It allows user to track both resistance and cardio workouts. For resistance, the user can input name, type, weight, sets, reps, and duration of exercise. For cardio, user can track duration and distance traveled. The purpose of application is to help users reach their fitness goals more quickly by actively tracking their workout progress.
                     </p>
                                         <form action="https://github.com/BEhnert/17-Fitness-Tracker" method="get" target="_blank"
                                             className="btn no-border">

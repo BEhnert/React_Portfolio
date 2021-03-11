@@ -1,5 +1,4 @@
 import '../Views/style.css';
-import {Link} from 'react-router';
 import Footer from '../Views/footer';
 import NavBar from '../Views/navbar';
 
@@ -39,7 +38,7 @@ function Home() {
           <div className="jumbotron" style={{background: "rgba(171, 196, 206, 0.85)"}}>
             <div className="container-fluid">
               <h1 className="display-8" style={{textAlign: "center"}}>Brock Ehnert</h1>
-              <p className="lead" style={{fontSize: "25px"}}>Full-stack web developer with a Bachelor's degree in Management Information Systems and Minor in Computer Science (2000) from Worcester Polytechnic Institute.
+              <p className="lead" style={{fontSize: "25px", fontWeight: "450"}}>Full-stack web developer with a Bachelor's degree in Management Information Systems and Minor in Computer Science (2000) from Worcester Polytechnic Institute.
               After 20 years of Functional and Technical Retail industry consulting Oracle Retail implementations, decided to expand technical expertise by obtaining a Full Stack Web Development
               certificate from the University of Minnesota.  Over the course, I learned multiple languages and coding standards in HTML, CSS, JavaScript/NodeJS, mySQL, React.js, and more.
               Creative problem-solver and engaging team player on many clients serving as liaison between client, software provider, internal consulting team, other 3rd party integrators, and management.

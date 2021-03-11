@@ -1,6 +1,6 @@
 .gradient-bg, body {
     background: rgb(32, 32, 212);
-    background-image: url(../components/Images/mountain.jpg);
+    background-image: url(../components/Images/mountain.jpg);;
 }
 
 h1 {
