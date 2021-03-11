@@ -1,5 +1,5 @@
 
-import '../Views/style.css';
+import './style.css';
 
 function Footer() {
     return (

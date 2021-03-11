@@ -1,4 +1,4 @@
-import '../Views/style.css';
+import './style.css';
 import Footer from './footer';
 import NavBar from './navbar'
 

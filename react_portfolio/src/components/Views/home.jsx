@@ -1,6 +1,6 @@
-import '../Views/style.css';
-import Footer from '../Views/footer';
-import NavBar from '../Views/navbar';
+import './style.css';
+import Footer from './footer';
+import NavBar from './navbar';
 
 function Home() {
   return (
