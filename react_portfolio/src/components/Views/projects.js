@@ -1,6 +1,5 @@
+import React from "react";
 import './style.css';
-import Footer from '../footer';
-import NavBar from '../navbar';
 
 function Projects() {
     return (
@@ -17,9 +16,6 @@ function Projects() {
                 <title>Brock Ehnert</title>
 
                 <body>
-                    <header>
-                        <NavBar />
-                    </header>
 
                     <div className="col-md-10 m-auto">
                         <div className="jumbotron" style={{ background: "rgba(171, 196, 206, 0.85)" }}>
@@ -145,7 +141,6 @@ I can drop a pin for the product's: Location Date Quantity I can delete the pin 
                             </div>
                         </div>
                     </div>
-                    <Footer />
                 </body>
             </div>
         </div>

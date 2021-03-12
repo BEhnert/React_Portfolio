@@ -1,29 +1,25 @@
+import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import Home from "./components/Views/home"
-import Projects from "./components/Views/projects"
-import Resume from "./components/Views/resume"
+import Home from "./components/Views/Home"
+import Projects from "./components/Views/Projects"
+import Resume from "./components/Views/Resume"
+import Wrapper from "./components/Wrapper"
+import NavBar from "./components/NavBar"
+import Footer from "./components/Footer"
+import "./components/Views/style.css"
 
 function App() {
   return (
     <div>
       <Router>
         <div>
-          <div className="container"></div>
-          <Switch>
-            <Route exact path="/">
-              <Home />
-            </Route>
-            <Route path="/projects">
-              {/* Route path to Search Page */}
-              <Projects />
-            </Route>
-            <Route path="/resume">
-              {/* Route path to Input Page */} 
-              <Resume />
-              </Route>
-            <Route path="/">{/* Route path to Login Page */}</Route>
-
-          </Switch>
+        <NavBar />  
+        <Wrapper>
+          <Route exact path="/" component={Home} />
+          <Route exact path="/projects" component={Projects} />
+          <Route exact path="/resume" component={Resume} />
+        </Wrapper>
+        <Footer />
         </div>
       </Router>
     </div>

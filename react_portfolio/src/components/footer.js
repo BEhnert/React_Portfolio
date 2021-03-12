@@ -1,4 +1,4 @@
-
+import React from "react";
 import './Views/style.css';
 
 function Footer() {

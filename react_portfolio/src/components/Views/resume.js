@@ -1,6 +1,5 @@
+import React from "react";
 import './style.css';
-import Footer from '../footer';
-import NavBar from '../navbar'
 
 function Resume() {
     return (
@@ -16,13 +15,8 @@ function Resume() {
                 <title>Brock Ehnert</title>
 
                 <body>
-                    <header>
-                        <NavBar />
-                    </header>
-
                     <div class="col-md-12 m-auto">
                         <iframe title="resume" src="https://drive.google.com/file/d/18__uYqdf8sOU4iYoBrVFS5O5AjuMwxGw/preview" width="800" height="880"></iframe>
-                        <Footer />
                     </div>
                 </body>
             </div>

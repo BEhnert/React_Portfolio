@@ -1,6 +1,6 @@
+import React from "react";
 import './style.css';
-import Footer from '../footer';
-import NavBar from '../navbar';
+
 
 function Home() {
   return (
@@ -20,8 +20,6 @@ function Home() {
 
         </head>
 
-<NavBar />
-
         <div className="col-md-10 m-auto">
           <div className="jumbotron" style={{background: "rgba(171, 196, 206, 0.85)"}}>
             <div className="container-fluid">
@@ -35,8 +33,6 @@ function Home() {
           </div>
         </div>
       </div>
-      <Footer />
-
     </div>
 
   );
