@@ -1,6 +1,6 @@
 import './style.css';
-import Footer from './footer';
-import NavBar from './navbar';
+import Footer from '../footer';
+import NavBar from '../navbar';
 
 function Home() {
   return (
@@ -15,18 +15,6 @@ function Home() {
           <link rel="preconnect" href="https://fonts.gstatic.com"></link>
           <link href="https://fonts.googleapis.com/css2?family=Cabin&display=swap" rel="stylesheet"></link>
           <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300&family=Rubik&display=swap" rel="stylesheet"></link>
-
-
-          {/* <style>
-    body {
-      font-family: 'Cabin', sans-serif;
-      font-size: 48px;
-    }
-
-    h1 {
-      text-align: center;
-    }
-  </style> */}
 
           <title>Brock Ehnert</title>
 
